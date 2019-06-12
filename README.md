@@ -1,2 +1,2 @@
 # HarryPotter_Quiz
-A basic Quiz-form created using HTML,CC and JavaScript
+A basic Quiz-form created using HTML,CSS and JavaScript
