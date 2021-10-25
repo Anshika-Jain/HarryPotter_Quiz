@@ -7,6 +7,11 @@ body{
     
 }
 
+.rounded-image
+{
+	border-radius: 10 px;
+}
+
 #container
 {
     width: 60%;
