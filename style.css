@@ -41,6 +41,7 @@ section{
 input[type = "submit"]{
     background:burlywood;
     border: 0;
+    outline:none;
     color: black;
     padding: 10px 15px;
     cursor:pointer;
